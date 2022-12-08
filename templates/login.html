@@ -11,30 +11,31 @@
 
 <body>
 
-  <div class="container-fluid">
+  <div class="container-fluid container-login">
     <div class="row">
       <div class="col-md-6 side-left">
         <img src="{{ url_for('static', filename='/assets/img/bg.png') }}" alt="">
       </div>
-      <div class="col-md-6 ">
+      <div class="col-md-6 title-header">
         <h1>Daftar Akun</h1>
         <p>Daftar untuk belanja produk Nusantara</p>
 
         <form action="login" , method="post">
           <div class="form-group">
-            <input type="nama" name="nama" class="form-control" placeholder="Masukkan Nama Lengkap">
+            <input type="nama" name="nama" class="form-control" placeholder="Masukkan Nama Lengkap" required>
           </div>
           <div class="form-group">
-            <input type="email" name="email" class="form-control" placeholder="Masukkan Alamat Email">
+            <input type="email" name="email" class="form-control" placeholder="Masukkan Alamat Email" required>
           </div>
           <div class="form-group">
-            <input type="password" name="password" class="form-control" placeholder="Masukkan Password + Karakter">
+            <input type="password" name="password" class="form-control" placeholder="Masukkan Password + Karakter"
+              required>
           </div>
           <div class="form-group">
             <input type="password" name="konfirmasi_password" class="form-control"
-              placeholder="Masukkan Konfirmasi Password">
+              placeholder="Masukkan Konfirmasi Password" required>
           </div>
-          <button type="submit" class="btn btn-primary">Daftar</button>
+          <button type="submit" class="btn btn-info">Daftar</button>
         </form>
       </div>
     </div>

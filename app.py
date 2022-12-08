@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request, redirect, session
+from flask import Flask, render_template, request, redirect, session, flash
 import pymysql
 import secrets
 
@@ -9,16 +9,22 @@ db = pymysql.connect(user="root", database='nusantamart')
 
 
 @app.route('/')
-def hello_world():
+def index():
     return render_template('login.html')
 
 
 @app.route("/login", methods=['POST'])
 def login():
+    cursor = db.cursor()
     nama = request.form['nama']
     email = request.form['email']
     password = request.form['password']
-    cursor = db.cursor()
+    query = "SELECT * FROM `users` WHERE email = %s"
+    cursor.execute(query, (email))
+    data = cursor.fetchall()
+    if (len(data) > 0):
+        return index()
+
     query = "INSERT INTO `users`(`id`,`nama`,`email`,`password`) VALUES(null,%s,%s,%s)"
 
     cursor.execute(query, (nama, email, password))
