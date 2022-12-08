@@ -8,6 +8,10 @@
     font-family: 'Poppins', sans-serif;
 }
 
+.container-login {
+    height: 100vh;
+}
+
 .side-left img {
     width: 100%;
     background-size: cover;
@@ -15,10 +19,10 @@
 
 
 .side-right {
-    margin: 5% 10%;
     width: 100%;
 }
 
 .title-header {
-    background-color: #65E3C0;
+    height: 100vh;
+    margin: auto 100px;
 }

@@ -9,11 +9,11 @@ db = pymysql.connect(user="root", database='nusantamart')
 
 
 @app.route('/')
-def index():
-    return render_template('login.html')
+def index(msg=False):
+    return render_template('daftar.html', message=msg)
 
 
-@app.route("/login", methods=['POST'])
+@app.route("/daftar", methods=['POST'])
 def login():
     cursor = db.cursor()
     nama = request.form['nama']
@@ -23,7 +23,7 @@ def login():
     cursor.execute(query, (email))
     data = cursor.fetchall()
     if (len(data) > 0):
-        return index()
+        return index(True)
 
     query = "INSERT INTO `users`(`id`,`nama`,`email`,`password`) VALUES(null,%s,%s,%s)"
 
@@ -35,7 +35,7 @@ def login():
     data = cursor.fetchall()
     session['user_id'] = data[0]
 
-    return redirect('/homepage')
+    return redirect('/homepage', data=data)
 
 
 @app.route('/homepage')
