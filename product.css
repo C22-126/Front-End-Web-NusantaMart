@@ -1,0 +1,110 @@
+
+body {
+    display: block;
+    background-size: cover;
+}
+
+header{
+    position: fixed;
+    top: 0; left: 0; right: 0;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #fd8d31;
+    padding: .5em 5%;
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, 0.1);
+}
+
+.navbar > .navbar-brand{
+    font-weight:bold;
+    font-size: 30px; 
+}
+
+.navbar-nav {
+    display: inline;
+    flex-direction: row;
+}
+
+.navbar-nav, .mr-auto {
+    flex: 1;
+    margin: auto;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.navbar-brand > span{
+    color: #e22200;
+}
+
+.jumbotron {
+    text-align: center;
+    background-image: url('/asset/bg.jpg');
+    background-size: cover;
+    height: 500px;
+    padding-top: 20px;
+    margin-top: 5px;
+}
+
+.jumbotron > .container {
+    margin-top: 100px;
+    color: rgb(0, 0, 0);
+}
+
+
+.jumbotron > .input-group {
+    width: 600px;
+    /* justify-content: center; */
+    margin: 50px auto;
+}
+
+.icon{
+    color: black;
+}
+
+h3{
+    text-align: center;
+    margin: 20px;
+    padding-bottom: 20px;
+}
+
+.populer {
+    padding: 20px;
+    margin: 20px;
+}
+
+
+.card > .card-body > .btn {
+    align-items: center;
+    width: 200px;
+    border: 1px solid;
+    border-color: #FD831F;
+    color:  #FD831F;
+}
+
+.card > .card-body > .btn:hover {
+    background-color: #FD831F;
+    color:  white;
+}
+
+.card:hover {
+    z-index: 1;
+    transform: scale(1.05);
+}
+
+
+
+@media screen and (max-width: 600px) {
+    .jumbotron > .input-group {
+        width: 80%;
+    }
+
+    .jumbotron {
+        margin-top: -5px;
+    }
+
+    .navbar{
+        background-color: black;
+    }
+    
+}
+
+

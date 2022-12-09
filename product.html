@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="product.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <title>Nusantamart</title>
+</head>
+
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-light">
+            <div class="container-fluid">
+              <a class="navbar-brand" href="#">Nusanta<span>mart</span></a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+
+              <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#">Request makanan</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link active" href="#">Cari makanan</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link active" href="#">About</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link active" href="#">
+                      <i class="fa fa-cart-shopping"></i>
+                    </a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link active" href="#">
+                      <i class="fa fa-circle-user"></i>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+
+            </div>
+          </nav>
+    </header>
+
+    <main>
+      <section class="home">
+        <div class="jumbotron jumbotron-fluid">
+          <div class="container">
+            <h2>Bingung mencari makanan yang serupa dengan makanan favorite mu</h2> 
+                <h2>Coba fitur Request makanan ini</h2>
+                <p class="lead">Nusantamart menyediakan berbagai menu makanan tardisioanl indonesia yang dikemas dengan modern dan memberikan pelayanan terbaik untuk kamu yang suka engan makanan indonesia. Yuk bantu produk makanan asal Indonesia</p>
+          </div>
+          <div class="input-group mb-3">
+              <input class="form-control search" id="searchElement" type="search" placeholder="Request..." autofocus="autofocus">
+              <div class="input-group-append">
+                  <button class="btn btn-dark" id="searchButtonElement" type="submit">
+                    <i class="fa fa-magnifying-glass"></i>
+                  </button>
+              </div>
+          </div>
+        </div>
+      </section>
+       
+   
+        <div class="populer">
+          <h3>Popular</h3>
+          <div class="card-group">
+            <div class="card mb-5 shadow rounded-lg" style="width: 15rem;">
+              <img src="${this._meal.strMealThumb}" class="card-img-top" alt="">
+                <div class="card-body">
+                    <h5>${this._meal.strMeal}</h5>
+                    <p class="card-text">${this._meal.strArea}</p>
+                    <a href="${this._meal.strYoutube}" class="btn"><b>Pesan Sekarang</b></a>
+                </div>
+             </div>
+             <div class="card mb-5 shadow rounded-lg" style="width: 15rem;">
+              <img src="${this._meal.strMealThumb}" class="card-img-top" alt="">
+                <div class="card-body">
+                    <h5>${this._meal.strMeal}</h5>
+                    <p class="card-text">${this._meal.strArea}</p>
+                    <a href="${this._meal.strYoutube}" class="btn"><b>Pesan Sekarang</b></a>
+                </div>
+             </div>
+             <div class="card mb-5 shadow rounded-lg" style="width: 15rem;">
+              <img src="${this._meal.strMealThumb}" class="card-img-top" alt="">
+                <div class="card-body">
+                    <h5>${this._meal.strMeal}</h5>
+                    <p class="card-text">${this._meal.strArea}</p>
+                    <a href="${this._meal.strYoutube}" class="btn"><b>Pesan Sekarang</b></a>
+                </div>
+             </div>
+          </div>
+        </div>
+
+        <div class="populer">
+          <h3>Popular</h3>
+          <div class="card-group">
+            <div class="card mb-5 shadow rounded-lg" style="width: 15rem;">
+              <img src="${this._meal.strMealThumb}" class="card-img-top" alt="">
+                <div class="card-body">
+                    <h5>${this._meal.strMeal}</h5>
+                    <p class="card-text">${this._meal.strArea}</p>
+                    <a href="${this._meal.strYoutube}" class="btn"><b>Pesan Sekarang</b></a>
+                </div>
+             </div>
+             <div class="card mb-5 shadow rounded-lg" style="width: 15rem;">
+              <img src="${this._meal.strMealThumb}" class="card-img-top" alt="">
+                <div class="card-body">
+                    <h5>${this._meal.strMeal}</h5>
+                    <p class="card-text">${this._meal.strArea}</p>
+                    <a href="${this._meal.strYoutube}" class="btn"><b>Pesan Sekarang</b></a>
+                </div>
+             </div>
+             <div class="card mb-5 shadow rounded-lg" style="width: 15rem;">
+              <img src="${this._meal.strMealThumb}" class="card-img-top" alt="">
+                <div class="card-body">
+                    <h5>${this._meal.strMeal}</h5>
+                    <p class="card-text">${this._meal.strArea}</p>
+                    <a href="${this._meal.strYoutube}" class="btn"><b>Pesan Sekarang</b></a>
+                </div>
+             </div>
+          </div>
+        </div>
+      
+      
+
+      
+
+    </main>
+
+    
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
+</body>
+</html>
