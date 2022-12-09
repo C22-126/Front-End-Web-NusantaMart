@@ -1,0 +1,1274 @@
+foodId,Nama,Tipe,harga,img
+1,Sosis Bakar,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+2,Ngohiong Ayam Udang,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+3,Rawon Ayam,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+4,Usus Goreng Crispy,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+5,Ceker Rica Rica,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+6,Ceker Kecap Pedas,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+7,Ayam Suwir Kecap,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+8,Burung Puyuh Bakar,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+9,Dangkot Ayam,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+10,Ayam Bumbu Merah,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+11,Pempek Ayam,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+12,Ngohiong Ayam,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+13,Rica Rica Bebek,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+14,Ayam Rujak Tanpa Santan,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+15,Daging Goreng,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+16,Asam Pedas (Padeh) Daging,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+17,Tongseng Kambing Tanpa Santan,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+18,Saksang Ayam,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+19,Ayam Goreng Madu,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+20,Ayam Kecap,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+21,Ayam Geprek Keju,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+22,Chicken Basil Thai,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+23,Dumpling Ayam Kukus,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+24,Tangsuyuk Sapi,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+25,Kekian Ayam Udang,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+26,Yakitori Ayam,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+27,Ayam Telur Asin,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+28,Ayam Kuah Hitam,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+29,Korean Spicy Chicken,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+30,Nasi Jinggo,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+31,Bubur Ayam Quaker Oat,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+32,Lidah Sapi Cabe hijau,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+33,Ayam Goreng Oatmeal,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+34,Burrito Ayam,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+35,Ayam Kecap Kuah,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+36,Ayam Kecap Pedas,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+37,Ayam Bumbu Rajang (Khas Lombok),ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+38,Gore Gore,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+39,Bakso Keju,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+40,Tum Ayam,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+41,Ayam Bakar Lumajang,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+42,Ayam Bakar Bumbu Rujak,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+43,Ayam Panggang Pecel,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+44,Nasi Briyani Ayam,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+45,Ayam Kodok,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+46,Sepat Ayam,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+47,Tahu Campur,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+48,Ayam Kecap Jahe,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+49,Daging Bumbu Bali,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+50,Ayam Bakar Klaten,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+51,Ayam Goreng Cabe,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+52,Ayam Kare Jawa,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+53,Ayam Goreng Sasando,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+54,Kalio Daging Sapi,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+55,Tumis Ayam Cincang Nanas Paprika,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+56,Tim Telur Daging,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+57,Sate Ponorogo,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+58,Ayam Rebus Bumbu,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+59,Ayam Saus Inggris,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+60,Ayam Tangkap,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+61,Nasi Bebek,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+62,Sayap Ayam Isi,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+63,Sop Buntut Bakar,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+64,Siomay Udang Kuah Kaldu,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+65,Batagor Kuah,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+66,Ayam Goreng Bawang,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+67,Ayam Goreng Terasi,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+68,Ayam Suwir Cabe Ijo,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+69,Ayam Panggang Madu,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+70,Ayam Panggang Lada Hitam,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+71,Dendeng Lambok,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+72,Oseng Tahu Udang,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+73,Pallu Basa,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+74,Egg Chicken Roll,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+75,Itiak Lado Mudo (Bebek Cabe Ijo),ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+76,Tengkleng,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+77,Sate Padang,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+78,Ayam Jerit,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+79,Tumis Daging Sapi Cabe Ijo,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+80,Kalio Ayam,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+81,Iga Penyet,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+82,Sambal Goreng Hati Sapi,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+83,Ayam Pelalah,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+84,Krengsengan Daging Sapi,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+85,Ayam Bekakak,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+86,Ekkado,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+87,Gadon Daging,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+88,Gulai Iga Sapi,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+89,Ayam Saus Lemon,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+90,Bistik Lidah Sapi,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+91,Kebab,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+92,Ayam Barbeque,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+93,Ayam Lodho,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+94,Ayam Gepuk,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+95,Ayam Goreng KFC Krispi,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+96,Ayam Gongso,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+97,Spicy Chicken Wings (Richeese),ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+98,Bebek Madura,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+99,Paru Goreng,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+100,Pindang Daging Kudus,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+101,Bebek Kaleyo,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+102,Sate Maranggi,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+103,Ayam Wijen Saus Mentega,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+104,Babat Gongso,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+105,Ayam Kecap Goreng Mentega,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+106,Kari Kambing,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+107,Mie Kangkung Ayam,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+108,Sambal Goreng Krecek,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+109,Gyoza,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+110,Sate Klopo,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+111,Sop Ceker,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+112,Sempol Ikan Tenggiri,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+113,Bebek Goreng Surabaya,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+114,Ayam Kemangi,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+115,Ayam Pok Pok,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+116,Ayam Geprek (Tanpa Tepung),ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+117,Ayam Geprek Jogja,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+118,Bulgogi,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+119,Ayam Penyet,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+120,Dim Sum Ceker Ayam,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+121,Tumis Buncis Daging Giling,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+122,Ayam Goreng Tulang Lunak,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+123,Ayam Goreng Kalasan,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+124,Sate Kambing,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+125,Pindang Tulang Iga,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+126,Ayam Bakar Padang,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+127,Ayam Sambal Matah,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+128,Ayam Lada Hitam,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+129,Ayam Bakar Bumbu Bali,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+130,Bakso Ayam,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+131,Brongkos,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+132,Abon Sapi,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+133,Ayam Bakar Bumbu Kuning,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+134,Galantin Ayam,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+135,Ayam Nasu Palekko,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+136,Bistik Ayam,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+137,Gulai Ayam Padang,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+138,Rendang Ayam,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+139,Semur Hati Ampela Ayam,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+140,Ayam Bakar Kecap,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+141,Opor Ayam Putih,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+142,Galantin Daging Sapi,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+143,Pecel Ayam,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+144,Ayam Taliwang,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+145,Sambal Goreng Ati Ampela,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+146,Ayam Karage,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+147,Ayam Nanking,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+148,Rendang Daging Sapi Padang,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+149,Sop Saudara,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+150,Ayam Kremes,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+151,Usus Ayam Tumis Pedas Manis,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+152,Ayam Kungpao,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+153,Terik Daging Tahu Tempe,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+154,Beef Steak Tenderloin Blackpepper Sauce,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+155,Chicken (Ayam) Teriyaki,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+156,Ayam Betutu,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+157,Beef Daging Teriyaki,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+158,Steak Ayam Brown Sauce ( Chicken Steak ),ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+159,Seblak Ceker,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+160,Ayam Pop,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+161,Tongseng Ayam,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+162,Dendeng Balado,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+163,Ayam Balado,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+164,Semur Daging Sapi,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+165,Rolade Daging Sapi,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+166,Daging Sapi Paprika Lada Hitam,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+167,Siomay Ayam Udang Dimsum,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+168,Tongseng Sapi,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+169,Bistik Daging Sapi,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+170,Ayam Kuluyuk,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+171,Rendang Daging Sapi (Asli Minang),ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+172,Ayam Saus Tiram,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+173,Ayam Popcorn,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+174,Kikil Sapi Oseng Cabe Hijau,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+175,Sate Taichan,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+176,Rawon,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+177,Nugget Ayam,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+178,Ayam Rica-Rica,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+179,Ayam Kecap Padang,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+180,Ayam Cabe Ijo,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+181,Gulai Kambing,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+182,Ayam Goreng Lengkuas,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+183,Asem-Asem Daging,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+184,Ayam Goreng Tepung,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+185,Ayam Woku,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+186,Ayam Suwir Pedas Bali,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+187,Pepes Ayam,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+188,Ayam Goreng Kecap,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+189,Chicken Katsu,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+190,Beef Yakiniku,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+191,Ceker Ayam Pedas,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+192,Ayam Bakar Madu,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+193,Semur Ayam,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+194,Ayam Serundeng,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+195,Sate Lilit,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+196,Chicken Cordon Bleu,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+197,Selat Solo,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+198,Empal Gentong,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+199,Krengsengan Kambing,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+200,Nasi Bakar Ayam Kemangi,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+201,Nasi Gandul,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+202,Mie Sop Medan,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+203,Koloke Ayam,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+204,Tongseng Kambing,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+205,Ayam Tuturuga,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+206,Sate Komoh,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+207,Rabeg Daging Sapi,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+208,Hamburger Daging,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+209,Garang Asem Ayam,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+210,Empal Gepuk,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+211,Sate Ayam Madura,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+212,Ayam Goreng Padang,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+213,Daging Malbi Semur,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+214,Dendeng Ragi,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+215,Ayam Asam Manis,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+216,Serundeng Daging,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+217,Ayam Bumbu Rujak Kuah,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+218,Ceker Ayam Mercon,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+219,Iga Bakar Madu,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+220,Sempol Ayam,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+221,Sate Daging Sapi,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+222,Dendeng Batokok,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+223,Gulai Kikil (Tunjang),ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+224,Opor Ayam Kuning,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+225,Oseng Mercon,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+226,Semur Bola Bola Daging,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+227,Kari Ayam,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+228,Kentang Daging Cincang,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+229,Rendang Bola Bola Daging,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+230,Ikan Mas Pindang,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+231,Ikan Mujair Goreng,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+232,Ikan Bandeng Asam Manis,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+233,Ikan Mas Bakar,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+234,Ikan Mas Pesmol,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+235,Ikan Bandeng Goreng,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+236,Ikan Bandeng Pepes,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+237,Ikan Mas Goreng,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+238,Ikan Bandeng Gulai,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+239,Ikan Kembung Pesmol,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+240,Pepes Ikan Tongkol,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+241,Pempek Panggang,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+242,Gulai Ikan Mas,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+243,Odeng Kuah Korea,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+244,Ikan Nila Goreng,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+245,Gulai Ikan Nila,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+246,Pepes Ikan Nila,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+247,Ikan Selar Bumbu Kuning,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+248,Ikan Nila Asam Manis,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+249,Rajungan Saus Padang,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+250,Salmon Mentai,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+251,Nasi Bakar Ikan Cakalang,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+252,Sambal Cumi Pete Pedas,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+253,Pindang Bumbu Sarden,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+254,Bakso Udang Goreng,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+255,Belut Goreng,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+256,Kerang Hijau Balado,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+257,Kerang Dara Saus Pedas,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+258,Tuna Bakar Kecap,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+259,Poke Bowl Salmon,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+260,Sate Bandeng,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+261,Patin Bakar,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+262,Udang Saus Padang,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+263,Otak Otak Bandeng,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+264,Lumpia Vietnam,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+265,Gulai Ikan Tongkol,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+266,Cilok Ikan,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+267,Jambal Roti Tumis,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+268,Tongkol Suwir Lombok Ijo,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+269,Rajungan Asam Manis,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+270,Tulang Jambal Cabe,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+271,Udang Cabe Garam,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+272,Bola Bola Udang Roti,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+273,Rolade Ikan,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+274,Lele Goreng Kremes,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+275,Udang Saus Inggris,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+276,Kerang Hijau Rebus,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+277,Ikan Salai Asap Balado,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+278,Sambal Tongkol,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+279,Siomay Ikan Bandung,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+280,Sate Kerang,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+281,Ikan Gurame Bakar Bumbu Bali,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+282,Gurame Bumbu Rujak,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+283,Tenggiri Lempah Kuning,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+284,Cakalang Fufu Pampis,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+285,Ikan Bawal Bumbu Kuning,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+286,Kakap Bumbu Kuning,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+287,Pempek Sutra,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+288,Sambal Goreng Kentang Udang,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+289,Pempek Lenggang,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+290,Kepiting Saus Padang,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+291,Cumi Goreng Mentega,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+292,Gulai Kakap,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+293,Kerang Dara Asam Manis,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+294,Bandeng Bakar,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+295,Nugget Ikan,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+296,Hakau,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+297,Ikan Gabus Pucung,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+298,Pempek Kulit,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+299,Sate Ikan Tongkol,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+300,Ikan Gurame Bakar Madu,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+301,Pindang Serani,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+302,Ikan Bawal Bakar,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+303,Pepes Udang,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+304,Pempek Lenjer,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+305,Ikan Salem Bumbu Sarden,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+306,Salmon Teriyaki,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+307,Lele Bakar,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+308,Udang Pete Balado,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+309,Gulai Cumi Isi Telur,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+310,Bakso Ikan,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+311,Pangek Ikan Nila,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+312,Kerang Dara Rebus,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+313,Bakso Udang Rebus,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+314,Ikan Tenggiri Bumbu Kuning,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+315,Pecak Lele,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+316,Pepes Peda,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+317,Pempek Kapal Selam,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+318,Sambal Udang Goreng Petai,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+319,Udang Bakar Madu,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+320,Gulai Aceh Ikan Tongkol,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+321,Ikan Kerapu Asam Manis,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+322,Tim Ikan Kakap,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+323,Kapurung,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+324,Ikan Tongkol Bumbu Kuning,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+325,Pindang Tongkol Balado,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+326,Asam Padeh Ikan Patin,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+327,Cumi Asam Manis Basah,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+328,Udang Goreng Mentega,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+329,Sarden Homemade,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+330,Garang Asem Ikan,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+331,Arsik Ikan Mas,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+332,Ikan Asap Santan,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+333,Palumara Bandeng,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+334,Asam Padeh Ikan Tongkol,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+335,Semur Bandeng,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+336,Balado Ikan Kembung,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+337,Abon Ikan Tongkol,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+338,Ikan Kakap Asam Manis,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+339,Otak-Otak Goreng,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+340,Udang Asam Manis,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+341,Abon Tuna,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+342,Pempek Adaan,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+343,Pepes Ikan Mas Khas Sunda,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+344,Ikan Woku Belanga,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+345,Gulai Ikan Tenggiri,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+346,Ikan Mujair Bakar Kecap,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+347,Ikan Gurame Asam Manis,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+348,Udang Saos Tiram,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+349,Pecel Lele,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+350,Sambal Goreng Kering Teri Kacang,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+351,Pesmol Ikan Nila,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+352,Ikan Bandeng Presto,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+353,Ikan Kembung Goreng Bumbu Kuning,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+354,Cumi Goreng Tepung (Calamari),ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+355,Cumi Saus Padang,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+356,Udang Goreng Tepung (Ebi Furai),ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+357,Pepes Ikan Kembung,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+358,Pepes Ikan Teri Basah,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+359,Pecak Gurame,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+360,Kepiting Saus Tiram,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+361,Ikan Bandeng Acar Kuning,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+362,Cumi Telur Asin,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+363,Cumi Saus Tiram,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+364,Celimpungan,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+365,Kerang Hijau Saus Tiram Pedas,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+366,Asem Asem Bandeng,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+367,Udang Telur Asin,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+368,Mangut Lele,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+369,Sup Ikan Patin,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+370,Cumi Bakar Kecap,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+371,Ikan Patin Bumbu Kuning,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+372,Fish and Chips,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+373,Pindang Patin,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+374,Gulai Kepala Ikan Kakap,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+375,Steak Ikan Dori Panggang Saus Lemon,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+376,Cumi Asin Cabe Hijau,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+377,Kotokan Ikan Pe Lombok Ijo,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+378,Ikan Nila Bakar,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+379,Nasi Bakar Tuna Pedas,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+380,Amplang Krupuk Ikan,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+381,Kepiting Lada Hitam,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+382,Fish Cake,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+383,Ikan Tongkol Bumbu Sarden,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+384,Pindang Bandeng,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+385,Ikan Kembung Bakar Padang,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+386,Kepiting Asam Manis,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+387,Sop Ikan Salmon,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+388,Kerang Saus Padang,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+389,Tumis Cumi Hitam,ikan-seafood,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+390,Gulai Telur Tahu,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+391,Oncom Goreng,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+392,Keripik Tempe,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+393,Okonomiyaki,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+394,Keripik Tahu,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+395,Telur Gulung Sosis,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+396,Sayur Tahu Kuah Kuning,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+397,Tempe Teriyaki,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+398,Nasi Telur Pontianak,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+399,Telur Bacem,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+400,Papeda Gulung,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+401,Opor Telur,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+402,Bola Bola Tahu,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+403,Telur Geprek,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+404,Pempek Dos (Tanpa Ikan),tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+405,Telur Balado,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+406,Sambal Tempe,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+407,Tahu Walik,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+408,Tahu Cabe Garam,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+409,Tahu Petis,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+410,Telur Petis,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+411,Orak Arik Telur Sayuran,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+412,Omelet Mie,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+413,Pepes Telur Ikan,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+414,Tahu Lontong,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+415,Omelet Telur,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+416,Kupat Tahu Magelang,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+417,Tahu Teriyaki,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+418,Pepes Telur Asin,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+419,Tahu Jeletot,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+420,Egg Roll Korea,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+421,Chawanmushi,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+422,Mun Tahu,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+423,Tahu Isi,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+424,Telur Bumbu Bali,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+425,Tahu Bakso,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+426,Perkedel Tahu,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+427,Fuyunghai,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+428,Tahu Tek Surabaya,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+429,Tahu Bulat,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+430,Martabak Tahu,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+431,Tempe Mendoan Purwokerto,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+432,Sapo Tahu,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+433,Tahu Gejrot,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+434,Tahu Rambutan,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+435,Perkedel Tempe,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+436,Tahu Kukus,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+437,Bacem Tahu Tempe,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+438,Telur Kecap,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+439,Tahu Putih Goreng Garing,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+440,Tahu Telur,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+441,Pepes Tahu,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+442,Telur Dadar Padang,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+443,Tahu Aci Tegal,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+444,Sate Telur Puyuh,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+445,Telur Pindang,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+446,Semur Telur,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+447,Tahu Sarang Burung,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+448,Tempe Penyet,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+449,Nugget Tahu,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+450,Rendang Telur,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+451,Tahu Fantasi,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+452,Semur Telur Puyuh,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+453,Sambal Tumpang,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+454,Telur Puyuh Balado,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+455,Sayur Tempe Tahu Cabe Hijau,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+456,Tahu Guling,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+457,Tahu Gimbal Udang,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+458,Tahu Bubuk,tahu-tempe-telur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+459,Tumis Buncis Tempe,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+460,Salad Sayur,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+461,Pecel Madiun,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+462,Coleslaw,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+463,Oseng Pare Telur,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+464,Nasi Tim Sayuran,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+465,Oseng Tempe Cabe Ijo,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+466,Tumis Telur Tauge,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+467,Tumis Lobak Putih,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+468,Sayur Krecek,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+469,Ratatouille,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+470,Tumis Rebung,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+471,Lontong Tahu Khas Blora,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+472,Terong Goreng,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+473,Terong Balado,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+474,Tumis Pakis,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+475,Asinan Betawi,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+476,Capcay Goreng Jawa,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+477,Rendang Jamur,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+478,Tumis Brokoli Kembang Kol,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+479,Tumis Cuciwis Saus Tiram,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+480,Buntil Daun Pepaya,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+481,Sayur Asem Jawa Timur,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+482,Sayur Bening Sawi,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+483,Sayur Pepaya Muda,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+484,Ote Ote,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+485,Beberuk Terong,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+486,Sayur Asem Jakarta,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+487,Lontong Sayur Betawi,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+488,Oseng Tempe Toge,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+489,Oseng Tahu Tempe Kecap,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+490,Oseng Labu Siam,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+491,Oseng Tempe Pare,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+492,Kimchi,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+493,Nugget Sayur,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+494,Gulai Pakis,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+495,Sayur Rebung Santan,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+496,Brambang Asem,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+497,Toge Goreng Bogor,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+498,Semur Terong,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+499,Gado Gado Padang,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+500,Tumis Genjer,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+501,Tahu Tauco,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+502,Tempe Mendol,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+503,Perkedel Daging,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+504,Rolade Tahu Daun Singkong,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+505,Kangkung Saus Tiram,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+506,Kangkung Tauco,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+507,Bakwan Tahu,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+508,Tumis Pakcoy,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+509,Kering Kentang Tempe Pedas,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+510,Urap Bali,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+511,Semur Jengkol Betawi,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+512,Onion Rings,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+513,Gudeg Asli Jogja Komplit (Gudeg Kering),sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+514,Kering Tempe (Orek Tempe),sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+515,Lontong Sayur Padang,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+516,Urap Sayur,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+517,Plecing Kangkung,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+518,Tumis Bunga Pepaya,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+519,Mashed Potato,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+520,Sayur Nangka Kapau,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+521,Perkedel Kentang,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+522,Sayur Lodeh,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+523,Tempe Balado,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+524,Kangkung Belacan,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+525,Pepes Jamur,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+526,Ketoprak,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+527,Bakwan Udang,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+528,Tumis Jamur,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+529,Tumis Capcay,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+530,Tumis Jantung Pisang,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+531,Lodeh Terong Santan,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+532,Botok,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+533,Acar Timun,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+534,Tumis Pare,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+535,Tumis Bokcoy,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+536,Sayur Asem Jawa Tengah,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+537,Sayur Bobor Bayam,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+538,Pecel Sayur,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+539,Karedok,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+540,Tumis Oncom Leunca (Ulukutek Leunca),sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+541,Tumis Labu Siam,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+542,Tumis Buncis Udang,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+543,Salad Buah (Fruit),sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+544,Bakwan Dadar Jagung,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+545,Gado Gado Betawi,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+546,Bakwan Sayur (Bala Bala),sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+547,Tumis Baby Kailan,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+548,Sayur Asem Sunda,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+549,Jamur Krispi,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+550,Rendang Jengkol,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+551,Burgo,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+552,Sayur Oyong Bening Soun,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+553,Sayur Bayam Bening,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+554,Jengkol Balado,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+555,Gulai Daun Singkong,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+556,Pecel Terong,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+557,Jamur Enoki Krispi Goreng,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+558,Rujak Es Krim,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+559,Tumis Kacang Panjang,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+560,Rujak Cingur,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+561,Tumis Sawi Putih,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+562,Semur Tahu,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+563,Terong Bakar,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+564,Trancam,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+565,Tumis Kembang Turi Teri,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+566,Tumis Tauge,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+567,Tumis Jamur Kancing,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+568,Sayur Katuk Kuah Santan,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+569,Tumis Kangkung,sayur,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+570,Sambal Oncom,sambal,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+571,Sambal Cumi,sambal,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+572,Sambal Soto,sambal,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+573,Sambal Tuk Tuk,sambal,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+574,Sambal Nanas,sambal,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+575,Sambal Pencok Kacang Panjang,sambal,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+576,Sambal Belut,sambal,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+577,Sambal Pecak,sambal,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+578,Sambal Embe,sambal,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+579,Sambal Dabu Dabu,sambal,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+580,Sambal Kemangi,sambal,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+581,Sambal Bajak,sambal,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+582,Sambal Lalapan,sambal,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+583,Sambal Kencur,sambal,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+584,Sambal Pecel,sambal,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+585,Sambal Tahu Goreng,sambal,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+586,Sambal Bada,sambal,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+587,Sambal Petis,sambal,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+588,Sambal Matah Kecombrang,sambal,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+589,Sambal Korek,sambal,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+590,Sambal Terong,sambal,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+591,Sambal Bawang,sambal,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+592,Sambal Teri,sambal,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+593,Sambal Tomat,sambal,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+594,Sambal Ijo,sambal,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+595,Sambal Cibiuk,sambal,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+596,Sambal Pete,sambal,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+597,Sambal Kecap,sambal,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+598,Sambal Mangga Muda (Pencit),sambal,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+599,Sambal Terasi,sambal,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+600,Balado Kentang,sambal,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+601,Sambal Goang,sambal,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+602,Sambal Tempoyak Udang,sambal,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+603,Spaghetti Brulee,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+604,Nasi Daun Jeruk,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+605,Indomie Seblak,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+606,Mie Tek Tek Kuah,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+607,Mie Goreng Basah,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+608,Kimbab,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+609,Nasi Mandhi,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+610,Bola Bola Mie,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+611,Ketupat,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+612,Nasi Ayam Semarang,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+613,Nasi Tiwul,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+614,Risotto,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+615,Mie Goreng Nyemek,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+616,Bubur Korea (Dakjuk),nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+617,Nasi Gemuk,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+618,Nasi Tomat,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+619,Mie Kuah Ikan Bangka,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+620,Mie Sagu Kuah,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+621,Cwie Mie Malang,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+622,Pad Thai,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+623,Nasi Goreng Nanas Khas Thailand,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+624,Nasi Padang,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+625,Jajangmyeon,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+626,Nasi Kapau,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+627,Mie Ayam Bangka,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+628,Macaroni Cheese (Mac n cheese),nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+629,Spaghetti Rendang,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+630,Mie Cakalang,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+631,Mie Kuah Susu,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+632,Mie Tarempa,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+633,Mie Aceh Kuah,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+634,Mie Tulang Bandung,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+635,Nasi Goreng Shirataki,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+636,Nasi Rames,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+637,Laksa Bogor,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+638,Nasi Tim Bayi,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+639,Nasi Telur Korea,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+640,Mie Ayam Solo,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+641,Loco Moco,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+642,Beef Pho Vietnam,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+643,Mie Tiaw Goreng Ayam,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+644,Bubur Ayam Cianjur,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+645,Nasi Bakar Ikan Tongkol,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+646,Sate Kribo,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+647,Ramen,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+648,Mie Korea Ramyeon,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+649,Mie Shirataki Goreng,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+650,Nasi Goreng Tek Tek (Abang Kaki Lima),nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+651,Spaghetti Seafood Marinara,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+652,Indomie Goreng,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+653,Bubur Ayam Cirebon,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+654,Nasi Bakar Bandung Sunda,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+655,Mie Setan,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+656,Nasi Campur Bali,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+657,Mie Pangsit,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+658,Martabak Mie,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+659,Nasi Lengko,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+660,Nasi Ulam,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+661,Nasi Godog Khas Magelang,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+662,Nasi Goreng Magelangan,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+663,Laksa Mie,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+664,Mie Lidi Goreng,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+665,Papeda Cilung,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+666,Nasi Tempong,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+667,Bakwan Mie,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+668,Baked Rice (Nasi Panggang),nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+669,Mie Ongklok,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+670,Mie Gomak Goreng,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+671,Cireng Nasi,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+672,Nasi Goreng Merah,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+673,Mie Ayam Jamur,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+674,Kwetiau Siram,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+675,Nasi Kebuli Ayam,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+676,Mie Titi,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+677,Nasi Goreng Telur,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+678,Pangsit Goreng,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+679,Mie Goreng Seafood,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+680,Nasi Goreng Rendang,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+681,Bakmoy,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+682,Mie Celor,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+683,Nasi Bakar Ati Ampela,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+684,Ifumie,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+685,Lontong Balap,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+686,Misoa Kuah,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+687,Soun Kuah,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+688,Nasi Megono,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+689,Ayam Hainan,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+690,Bibimbap,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+691,Nasi Bakar Cumi (Sambalado Cumi),nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+692,Bread Pudding (Puding Roti Tawar),nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+693,Pastel Tutup Klasik,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+694,Nasi Goreng Gila,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+695,Kari Bihun Medan,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+696,Nasi Goreng Sapi,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+697,Nasi Bakar Teri (Sambel Teri Cabai Hijau),nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+698,Nasi Goreng Seafood,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+699,Nasi Goreng Kambing,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+700,Nasi Goreng Kampung,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+701,Nasi Goreng Oriental,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+702,Nasi Goreng Aceh,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+703,Spaghetti Carbonara,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+704,Soun Goreng,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+705,Bihun Kuah,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+706,Bubur Ayam,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+707,Mie Yamin Bandung,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+708,Nasi Tutug Oncom,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+709,Bihun Goreng Isi Special,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+710,Nasi Goreng Kikil Cabe Hijau,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+711,Nasi Goreng Terasi (Belacan),nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+712,Spaghetti Bolognese Meatballs (Bola-bola Daging),nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+713,Nasi Goreng Teri,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+714,Mie Goreng Jawa,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+715,Kentang Goreng (French Fries & Potato Wedges),nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+716,Fettucini Carbonara,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+717,Rice Ball Minion,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+718,Nasi Krawu,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+719,Mie Kocok Bandung,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+720,Macaroni Schotel,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+721,Kwetiau Kuah,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+722,Nasi Bakar Ayam Suwir,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+723,Nasi Liwet Sunda Teri,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+724,Mie Godog Jawa (Mie Rebus Jawa),nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+725,Nasi Uduk Betawi Komplit,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+726,Nasi Timbel Komplit,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+727,Nasi Goreng Pete,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+728,Nasi Goreng Kuning Kunyit,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+729,Japchae,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+730,Nasi Kebuli Kambing,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+731,Nasi Tim Ayam,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+732,Mie Sayur Hijau Bayam,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+733,Mie Goreng Aceh,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+734,Spaghetti Aglio Olio,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+735,Nasi Goreng Padang,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+736,Nasi Goreng Jawa,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+737,Makaroni Keju Kukus,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+738,Lasagna Panggang,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+739,Makaroni Goreng,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+740,Nasi Kuning Komplit,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+741,Tinutuan,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+742,Donat Mie,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+743,Nasi Lemak Lengkap,nasi-mie-pasta,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+744,Bakso Mercon,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+745,Sup Merah,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+746,Sup Matahari,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+747,Soto Sokaraja,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+748,Bakso Aci Tulang Rangu,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+749,Sup Ikan Gabus,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+750,Sundubu Jjigae,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+751,Soto Pacitan,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+752,Sop Ayam Suwir,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+753,Soto Kuah,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+754,Soto Daging Sapi Madura,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+755,Miso Soup,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+756,Tom Yam Ayam,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+757,Soto Sulung,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+758,Bakso Sapi (Pentol Daging Asli),sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+759,Bakso Bakar Sapi,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+760,Bakso Bakar Pedas Manis,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+761,Bakso Solo,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+762,Soto Babat,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+763,Cream Soup Ayam,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+764,Sup Makaroni,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+765,Soto Tangkar,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+766,Bakso Malang,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+767,Shabu Shabu,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+768,Soto Ambengan,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+769,Bakso Lo Hoa,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+770,Sop Ikan Nila Batam,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+771,Sup Jagung Kepiting,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+772,Bakso Urat,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+773,Soto Ayam Bening,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+774,Soto Ceker,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+775,Tauto Pekalongan,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+776,Sayur Sop Ayam,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+777,Soto Kuning Bogor,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+778,Soto Betawi,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+779,Sop Konro,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+780,Coto Makassar,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+781,Tekwan,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+782,Soto Banjar,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+783,Sop Buntut,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+784,Sup Kacang Merah Daging Sapi,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+785,Sop Iga Sapi,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+786,Soto Ayam Santan Medan,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+787,Sup Ikan Gurame,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+788,Sop Bakso,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+789,Soto Padang,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+790,Soto Kudus,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+791,Sup Ikan Kakap,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+792,Soto Mie Bogor,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+793,Sop Manten,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+794,Bubur (Jenang) Jagung,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+795,Sop Ayam Kampung,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+796,Bakso Goreng (Basreng),sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+797,Sop Sayur,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+798,Tom Yam Seafood Udang Ikan,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+799,Seblak Basah Bandung,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+800,Soto Ayam Kuning Lamongan,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+801,Sop Kimlo,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+802,Sup Asparagus Krim Ayam,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+803,Bakso Cuanki Udang,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+804,Bakso Aci,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+805,Bubur Kacang Hijau Madura,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+806,Sop Ubi,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+807,Sop Kambing,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+808,Sup Udang,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+809,Sroto Banyumas,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+810,Soto Bandung,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+811,Sup Jamur Kancing,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+812,Sup Tahu,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+813,Sup Jagung,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+814,Zuppa Soup,sop-soto-bakso,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+815,Pilus Cikur,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+816,Crepes Teflon,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+817,Oreo Goreng,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+818,Gingerbread (Kue Jahe),kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+819,Kue Baruasa,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+820,Kue Janda Genit,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+821,Martabak Manis Mini,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+822,Bolu Chocolatos,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+823,Burger Bun,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+824,Brownies Chocolatos,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+825,Pancake Teflon,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+826,Bolu Susu Lembang,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+827,Kue Lontar Papua,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+828,Croffle,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+829,Kue Moho,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+830,Kue Jongkong,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+831,Hotteok,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+832,Kue Lapet,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+833,Peanut Butter Cookies,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+834,Sandwich Buah,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+835,Bolu Susu,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+836,Egg Benedict,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+837,Bolu Meranti Keju,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+838,Kue Lapis Pepe Pandan,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+839,Lapis India Khas Banjar,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+840,Nastar Gulung,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+841,Kue Beng Beng,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+842,Long Potato,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+843,Kacang Sembunyi,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+844,Pizza Mozzarella Jamur,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+845,Roti Ubi Korea,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+846,Marshmallow Cookies,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+847,Baguette,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+848,Banoffee Pie,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+849,Kue Dange,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+850,Popcorn Caramel,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+851,Cornflake Cookies,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+852,Donat Crispy,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+853,Takoyaki,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+854,Pizza Dough,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+855,Kue Lapis Legit,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+856,Meringue Cookies,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+857,Selai Srikaya,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+858,Setup Roti Tawar,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+859,Pizza Tuna,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+860,Pizza Goreng Lipat,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+861,Sandwich Homemade,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+862,Korean Garlic Bread,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+863,Bolu Mentega,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+864,Pizza Mini,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+865,Pizza Seafood,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+866,Pizza Daging Sapi,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+867,Bomboloni,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+868,Pizza Sosis Ayam,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+869,Kue Ogura Pandan,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+870,Apem Selong,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+871,Selai Stroberi,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+872,Dessert Box Coklat,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+873,Roti John,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+874,Pia Pia,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+875,Donat Singkong,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+876,Cream Cheese,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+877,Kue Cincin,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+878,Lekker Holland,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+879,Bagel,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+880,Odading / Bolang Baling / Kue Bantal,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+881,Stik Keju Mozarella,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+882,Apem Kukus Gula Merah,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+883,Kue Balok,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+884,Kue Bagea Sagu,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+885,Putri Mandi,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+886,Bolu Kukus Ubi,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+887,Dessert Oreo Box,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+888,Keju Mozarella,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+889,Roti Maryam,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+890,Rainbow Cake Kukus,kue-roti,12000,https://img-global.cpcdn.com/recipes/7725e349d37ed287/751x532cq70/108rainbow-cake-kukus-nyliem-foto-resep-utama.jpg
+891,Crepes Pisang Coklat Keju,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+892,Puff Pastry,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+893,Pretzel,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+894,Apple Strudel,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+895,Killer Soft Bread,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+896,Donat Ubi Ungu,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+897,Tokyo Banana,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+898,Butter Cookies,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+899,Pop Cake,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+900,Swiss Roll,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+901,Bolu Kismis,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+902,Donat Pisang,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+903,Cake Kurma,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+904,Fruit Cake,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+905,Bingka Pisang,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+906,Bingka Barandam,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+907,Onigiri,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+908,Roti Unyil,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+909,Kemplang,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+910,Kue Akar Kelapa,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+911,Kue Keciput,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+912,Ketan Serundeng,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+913,Kue Talam Pisang,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+914,Lemon Cake,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+915,Cheese Tart,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+916,Red Velvet,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+917,Kue Talam Labu Kuning,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+918,Nugget Pisang,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+919,Kue Semprit Jadul,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+920,French Toast,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+921,Bolu Ketan Hitam,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+922,Japanese Cheese Cake,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+923,Roti Bluder,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+924,Kue Kering Coklat,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+925,Kue Sagon,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+926,Kue Tambang,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+927,Ketan Sarikaya,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+928,Roti Tawar Goreng Isi Ragout,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+929,Lidah Kucing,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+930,Lempeng Pisang,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+931,Bolu Zebra,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+932,Bolu Minyak,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+933,Kue Bugis,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+934,Churros,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+935,Kastengel Keju,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+936,Bola Bola Ubi,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+937,Muffin Pisang,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+938,Ogura Cake Zebra,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+939,Cupcake Coklat dan Lemon,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+940,Dorayaki Isi Coklat,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+941,Kue Talam Jagung,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+942,Martabak Bangka Manis,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+943,Croissant,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+944,Milk Bath Cake (Tres Leches),kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+945,Kuping Gajah,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+946,Sawut Singkong Gunung,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+947,Pisang Rai,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+948,Es Pisang Ijo,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+949,Karipap (Curry Puff),kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+950,Strudel Keju,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+951,Bolu Kukus Pelangi,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+952,Pizza Hut Teflon,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+953,Bolu Gulung Coklat,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+954,Klepon Ubi Ungu,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+955,Gabin Tape,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+956,Cilor,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+957,Pie Susu,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+958,Singkong Thailand,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+959,Jalangkote,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+960,Panada,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+961,Kue Telur Gabus,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+962,Donat Jadul,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+963,Hotang (Hotdog Kentang) / Sostang (Sosis Kentang),kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+964,Ongol Ongol,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+965,Lemper Ayam Bakar,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+966,Onde-Onde Isi Kacang Hijau,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+967,Misro,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+968,Serabi Bandung Oncom,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+969,Batagor Bandung,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+970,Apem Panggang,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+971,Getas,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+972,Getuk Lindri,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+973,Kue Lapis Hunkwe,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+974,Nagasari,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+975,Putu Mayang,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+976,Sosis Solo,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+977,Kue Talam Ebi,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+978,Wajik Ketan,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+979,Wingko Babat,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+980,Awug-Awug,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+981,Kue Cucur Gula Merah,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+982,Kue Lumpur Kentang,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+983,Lemet Singkong,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+984,Kue Ku,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+985,Lepet Jagung,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+986,Puding Zebra,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+987,Kue Kacang,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+988,Roti Tawar,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+989,Roti Bakar Keju Coklat,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+990,Cinnamon Roll,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+991,Kroket Kentang Isi Ayam Wortel,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+992,Kue Lapis Beras,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+993,Puding Jagung,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+994,Muffin Coklat,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+995,Cake Pisang (Banana Bread),kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+996,Bolu Gulung Pandan Keju,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+997,Donat Kentang,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+998,Kue Kering Nastar,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+999,Bika Ambon,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1000,Bolu Koja,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1001,Cente Manis,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1002,Combro,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1003,Sagu Keju,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1004,Kue Sus Isi Vla,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1005,Kue Bolu Sarang Semut (Caramel Cake),kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1006,Roti Manis,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1007,Chocolate Lava Cake,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1008,Prol Tape,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1009,Poffertjes,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1010,Cheese Cake Kukus (Tanpa Oven),kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1011,Putu Ayu,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1012,Kue Putri Salju,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1013,Choco Chip Cookies (Kukis),kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1014,Bolu Tape,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1015,Klapertart Klasik,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1016,Pisang Bolen Keju,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1017,Puding Brownies,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1018,Pie Vla Buah Mini (Fruit Tartlet),kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1019,Kue Ketan Hitam Kukus,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1020,Bolu Marmer,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1021,Brownies Panggang Klasik,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1022,Pastel Isi Ayam,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1023,Roti Sobek,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1024,Bitterballen,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1025,Roti Goreng Isi Cokelat,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1026,Black Forest,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1027,Kue Bangkit,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1028,Kue Talam Tepung Beras Pandan,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1029,Kue Mochi,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1030,Kue Gabin Ragout,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1031,Roti Kasur,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1032,Kue Leker,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1033,Sponge Cake Lemon,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1034,Kue Rangi,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1035,Tiramisu,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1036,Chiffon Cake Pandan,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1037,Risoles Ragout Sayur,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1038,Kue Khamir (Kamir),kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1039,Bingka Kentang,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1040,Kue Lumpur Labu Kuning,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1041,Roti Pisang,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1042,Egg Tart Portuguese,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1043,Waffle,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1044,Roti Boy O (Mocha Bun),kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1045,Mille Crepes,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1046,Brownies Kukus Lumer ala Amanda,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1047,Bolu Kukus Gula Merah,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1048,Kue Talam Singkong Gula Merah,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1049,Bolu Kukus Pandan,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1050,Bolu Kukus Pisang,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1051,Pancake Pisang,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1052,Roti Isi Daging,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1053,Kue Lapis Surabaya (Spikoe),kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1054,Kue Lumpur Surga,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1055,Carrot Cake,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1056,Macaroon Vanilla Oreo,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1057,Chocolate Mousse Cake,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1058,Brudel Keju Kukus,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1059,Kue Garpu,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1060,Cloud Bread,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1061,Almond Crispy,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1062,Roti Jala Kari Daging,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1063,Apple Pie,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1064,Coklat Praline Kurma Kacang Mete,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1065,Bolu Panggang Coklat,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1066,Kue Tusuk Gigi,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1067,Kue Tart Ulang Tahun,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1068,Kue Cubit,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1069,Sus Buah,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1070,Bolu Pisang,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1071,Kue Pancong Betawi,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1072,Martabak Manis Cokelat Kacang,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1073,Kue Nastar Keju,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1074,Martabak Manis Keju Susu,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1075,Getuk Pisang,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1076,Pukis Keju,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1077,Candil Ubi Ungu,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1078,Lemang Tapai,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1079,Tela Tela Singkong,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1080,Madu Mongso,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1081,Ubi Goreng,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1082,Banana Roll,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1083,Tape Ketan,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1084,Kacang Atom (Sukro) Homemade,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1085,Kue Talam,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1086,Bihun Gulung,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1087,Wedang Angsle,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1088,Telur Gulung,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1089,Choi Pan,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1090,Pisang Gulung,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1091,Lontong Medan,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1092,Pisang Goreng Madu,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1093,Cibay Pedas,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1094,Timus Singkong,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1095,Cucuru Bayao,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1096,Pisang Goreng Pontianak,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1097,Sekoteng,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1098,Kue Mendut,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1099,Rondo Royal (Tape Goreng),jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1100,Lupis,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1101,Kacang Telur,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1102,Kue Cubit Green Tea,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1103,Cilok Isi Kuah,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1104,Pisang Epe,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1105,Rempeyek Kacang Tanah,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1106,Es Susu Pop Ice Mambo,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1107,Kacang Disco,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1108,Jasuke,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1109,Kue Sakura (Bolu),jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1110,Sala Lauak,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1111,Biji Salak,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1112,Semar Mendem,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1113,Kulit Pangsit,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1114,Gandasturi,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1115,Martabak Mesir,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1116,Corndog,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1117,Biji Ketapang,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1118,Kacang Bawang,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1119,Kembang Goyang,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1120,Timus Ubi,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1121,Peyek Udang,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1122,Lumpia Basah,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1123,Bubur Manado,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1124,Barongko,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1125,Keripik Bawang,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1126,Keripik Pisang,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1127,Cilok,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1128,Getuk Goreng,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1129,Arem-Arem,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1130,Es Gabus,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1131,Carang Gesing,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1132,Bubur Ketan Hitam,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1133,Kue Mangkok,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1134,Kue Pukis Coklat (Pancong),jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1135,Cenil,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1136,Dadar Gulung Isi Kelapa,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1137,Bubur Kacang Hijau,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1138,Cheese Stick (Stik Keju),jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1139,Cireng Isi,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1140,Bakpia Teflon Khas Yogyakarta,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1141,Pisang Bakar Penyet,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1142,Bubur Sumsum,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1143,Onde-Onde Ketawa,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1144,Bola Bola Coklat (Truffle),jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1145,Jenang Gempol,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1146,Bubur Mutiara,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1147,Lumpia Rebung,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1148,Terang Bulan,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1149,Martabak Bandung,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1150,Samosa,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1151,Risoles Mayo,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1152,Misoa Goreng,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1153,Perkedel Bondon,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1154,Bubur Candil,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1155,Amparan Tatak,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1156,Ketan Durian,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1157,Pisang Goreng Kipas,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1158,Rujak Cuka,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1159,Rujak Cireng,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1160,Colenak,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1161,Singkong Keju,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1162,Ketan Susu,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1163,Cakwe,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1164,Lumpia Semarang,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1165,Kue Putu Bambu,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1166,Tteokbokki,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1167,Bakpao,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1168,Bubur Kampiun,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1169,Lumpia Sayur Goreng,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1170,Pisang Coklat Lumer (Piscok),jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1171,Makaroni Telur (Maklor),jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1172,Cimol,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1173,Martabak Telur,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1174,Gemblong Ketan Hitam,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1175,Gemblong Ketan Putih,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1176,Pisang Molen,jajanan-pasar,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1177,Puding Chocolatos,puding-jeli,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1178,Panna Cotta Strawberry,puding-jeli,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1179,Puding Alpukat,puding-jeli,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1180,Butterscotch Pudding,puding-jeli,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1181,Puding Mozaik,puding-jeli,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1182,Kembang Tahu Wedang (Tahok),puding-jeli,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1183,Puding Tape Ketan,puding-jeli,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1184,Puding Coklat Susu,puding-jeli,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1185,Puding Lumut,puding-jeli,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1186,Puding Buah Naga,puding-jeli,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1187,Puding Kelapa Muda,puding-jeli,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1188,Puding Pepaya,puding-jeli,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1189,Puding Ombre Ubi Ungu,puding-jeli,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1190,Silky Puding,puding-jeli,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1191,Puding Oreo,puding-jeli,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1192,Puding Strawberry,puding-jeli,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1193,Puding Sutra,puding-jeli,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1194,Puding Casablanca Pandan Coklat,puding-jeli,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1195,Puding Karamel (Caramel Custard Pudding),puding-jeli,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1196,Puding Regal Kopi,puding-jeli,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1197,Puding Labu,puding-jeli,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1198,Puding Telor Ceplok,puding-jeli,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1199,Puding Susu,puding-jeli,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1200,Es Lilin Nutrijel Pelangi,puding-jeli,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1201,Vla Puding Buah,puding-jeli,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1202,Pudot (Puding Sedot),puding-jeli,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1203,Puding Mangga,puding-jeli,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1204,Puding Santan (Gula Merah),puding-jeli,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1205,Rempeyek Teri,keripik-kerupuk,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1206,Keripik Bayam,keripik-kerupuk,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1207,Keripik Singkong,keripik-kerupuk,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1208,Rengginang,keripik-kerupuk,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1209,Kerupuk Udang,keripik-kerupuk,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1210,Kentang Mustofa,keripik-kerupuk,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1211,Kerupuk Nasi,keripik-kerupuk,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1212,Keripik Singkong Balado,keripik-kerupuk,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1213,Coffee Jelly,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1214,Es Kopi Susu,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1215,King Mango Thai,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1216,Sale Pisang,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1217,Dalgona Coffee,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1218,Es Krim Strawberry,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1219,Dalgona Milo,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1220,MPASI 6 Bulan (Bubur Kabocha),buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1221,Teh Susu Telur (Talua) Khas Medan,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1222,Es Alpukat,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1223,Jus Buah Naga Stroberi,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1224,Cappucino Cincau,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1225,Mango Sago,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1226,Rujak Mangga Muda,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1227,Kolak Durian,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1228,Es Doger,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1229,Jus Alpukat,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1230,Es Boba Brown Sugar,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1231,Teh Tarik,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1232,Setup Pisang,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1233,Beras Kencur,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1234,Kunyit Asam,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1235,Susu Kedelai,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1236,Es Gempol Pleret,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1237,Kolak Labu,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1238,Es Lidah Buaya,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1239,Selai Nanas,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1240,Rujak Serut,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1241,Overnight Oat,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1242,Es Rumput Laut,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1243,Es Teler,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1244,Thai Tea,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1245,Jus Mangga,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1246,Nanas Goreng,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1247,Es Krim Coklat Homemade,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1248,Sorbet Buah,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1249,Es Timun Suri,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1250,Es Manado,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1251,Wedang Ronde,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1252,Manisan Kolang Kaling,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1253,Es Kopyor,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1254,Manisan Mangga,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1255,Mango Sticky Rice,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1256,Sarabba,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1257,Es Cendol Dawet,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1258,Rujak Buah,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1259,Lotek,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1260,Es Selendang Mayang,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1261,Es Kacang Merah,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1262,Es Sarang Burung,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1263,Es Kepal Milo,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1264,Es Oyen,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1265,Guacamole,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1266,Es Timun Serut,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1267,Es Buah,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1268,Es Kelapa Muda,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1269,Es Cincau,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1270,Asinan Rambutan,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1271,Asinan Buah,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1272,Sop Buah,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1273,Bandrek,buah-minuman,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
