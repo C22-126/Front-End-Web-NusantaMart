@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+  @font-face {
+    font-family: "ketoprak";
+    src: url('./assets/font/Ketoprak-0W6wo.ttf');
+  }
+
+  *{
+      font-family: 'Varela Round', sans-serif;
+  }
+.side-left{
+    background-color: #F2F2F2;
+    margin-right: 100px;
+}
+
+@media screen and (max-width: 566px) {
+  .side-left img {
+    display: none;
+  }
+}
+.menu-navbar{
+    margin: 0 10px;
+}
+
+.side-left img{
+    object-fit: cover;
+    height: 100vh;
+}
+.kartu-makanan{
+    cursor: pointer;
+    transition: all .2s;
+}
+.kartu-makanan:hover{
+    scale: 1.1;
+    z-index: 99;
+}
+
+.kartu-makanan img{
+    object-fit: cover;
+}
+
+.item-keranjang{
+    border-radius: 10px;
+    transition: all .2s;
+}
+.item-keranjang:hover{
+    scale: 1.05;
+    z-index: 99;
+    border-radius: 10px;
+}
+
+.img-item{
+    width: 100px;
+    object-fit: cover;
+    border-radius: 15px;
+    margin-right: 20px;
+}

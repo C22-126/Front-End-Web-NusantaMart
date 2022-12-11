@@ -1,13 +1,13 @@
 foodId,Nama,Tipe,harga,img
-1,Sosis Bakar,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
-2,Ngohiong Ayam Udang,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
-3,Rawon Ayam,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
-4,Usus Goreng Crispy,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
-5,Ceker Rica Rica,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
-6,Ceker Kecap Pedas,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
-7,Ayam Suwir Kecap,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
-8,Burung Puyuh Bakar,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
-9,Dangkot Ayam,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+1,Sosis Bakar,ayam-daging,5000,https://i.pinimg.com/564x/16/cb/c8/16cbc88bb28180d869069bdd85c5f63c.jpg
+2,Ngohiong Ayam Udang,ayam-daging,10000,https://i.pinimg.com/564x/87/10/32/8710327f7837cb9fc5a73e3141fd9532.jpg
+3,Rawon Ayam,ayam-daging,15000,https://i.pinimg.com/564x/87/9a/e3/879ae34e0c74ea3ecd1294bd33a18f40.jpg
+4,Usus Goreng Crispy,ayam-daging,10000,https://i.pinimg.com/564x/50/49/6d/50496d1ff42b1e302aaa7a264ff51c5d.jpg
+5,Ceker Rica Rica,ayam-daging,10000,https://i.pinimg.com/564x/93/c3/14/93c314284dc41e6ede4f6120308ea5cb.jpg
+6,Ceker Kecap Pedas,ayam-daging,10000,https://i.pinimg.com/564x/3b/a0/6f/3ba06f1906c2c4301bffa287bbfa6868.jpg
+7,Ayam Suwir Kecap,ayam-daging,10000,https://i.pinimg.com/564x/6c/c6/b3/6cc6b34638875c9b4af0f9e07fe47677.jpg
+8,Burung Puyuh Bakar,ayam-daging,20000,https://i.pinimg.com/564x/ac/c0/92/acc0926962f9a678f1ddac8e9772eb98.jpg
+9,Dangkot Ayam,ayam-daging,15000,https://i.pinimg.com/564x/2d/fc/e0/2dfce093e2d298088084815f271297f7.jpg
 10,Ayam Bumbu Merah,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
 11,Pempek Ayam,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
 12,Ngohiong Ayam,ayam-daging,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
@@ -888,7 +888,7 @@ foodId,Nama,Tipe,harga,img
 887,Dessert Oreo Box,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
 888,Keju Mozarella,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
 889,Roti Maryam,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
-890,Rainbow Cake Kukus,kue-roti,12000,https://img-global.cpcdn.com/recipes/7725e349d37ed287/751x532cq70/108rainbow-cake-kukus-nyliem-foto-resep-utama.jpg
+890,Rainbow Cake Kukus,kue-roti,2000,https://i.pinimg.com/564x/3b/42/48/3b42480872b5cdbec29f6ecf45eaf15b.jpg
 891,Crepes Pisang Coklat Keju,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
 892,Puff Pastry,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
 893,Pretzel,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
@@ -957,32 +957,32 @@ foodId,Nama,Tipe,harga,img
 956,Cilor,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
 957,Pie Susu,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
 958,Singkong Thailand,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
-959,Jalangkote,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
-960,Panada,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
-961,Kue Telur Gabus,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
-962,Donat Jadul,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
-963,Hotang (Hotdog Kentang) / Sostang (Sosis Kentang),kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
-964,Ongol Ongol,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
-965,Lemper Ayam Bakar,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
-966,Onde-Onde Isi Kacang Hijau,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
-967,Misro,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
-968,Serabi Bandung Oncom,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
-969,Batagor Bandung,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
-970,Apem Panggang,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
-971,Getas,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
-972,Getuk Lindri,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
-973,Kue Lapis Hunkwe,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+959,Jalangkote,kue-roti,7000,https://cdn.popmama.com/content-images/post/20200501/img-01052020-144328-800-x-420-piksel-0ea46ec0e16ffd285b743068b4f17fcc_800x420.jpg
+960,Panada,kue-roti,2000,https://i.pinimg.com/564x/e7/dc/cf/e7dccf7900e406cbba886f6fe02e337d.jpg
+961,Kue Telur Gabus,kue-roti,10000,https://i.pinimg.com/564x/71/3c/4f/713c4fcf6e96d32f47bea828f393871d.jpg
+962,Donat Jadul,kue-roti,5000,https://i.pinimg.com/564x/eb/f7/64/ebf76469f26eb7816615a64e02dd72f8.jpg
+963,Hotang (Hotdog Kentang) / Sostang (Sosis Kentang),kue-roti,10000,https://i.pinimg.com/564x/b9/c5/d2/b9c5d291da41a95021d4d7f3ab9811f2.jpg
+964,Ongol Ongol,kue-roti,5000,https://i.pinimg.com/564x/6f/0f/69/6f0f69a472491288da9c2a197ada9562.jpg
+965,Lemper Ayam Bakar,kue-roti,5000,https://i.pinimg.com/564x/ec/be/e7/ecbee7cd0ad9a0cd85ee04409701d2c8.jpg
+966,Onde-Onde Isi Kacang Hijau,kue-roti,3000,https://i.pinimg.com/564x/5b/d0/e4/5bd0e44f6c52e439f32b09a27ef3f9a8.jpg
+967,Misro,kue-roti,3000,https://i.pinimg.com/564x/b6/d0/1a/b6d01a77e8ade5341026839b72393b4a.jpg
+968,Serabi Bandung Oncom,kue-roti,5000,https://i.pinimg.com/564x/69/14/45/69144569e0686e9e8157791d4c55d125.jpg
+969,Batagor Bandung,kue-roti,10000,https://selerasa.com/wp-content/uploads/2021/11/Resep-Batagor-Bandung-1200x798.jpg
+970,Apem Panggang,kue-roti,8000,https://img-global.cpcdn.com/recipes/59297c5258eb630d/751x532cq70/apem-bakar-foto-resep-utama.jpg
+971,Getas,kue-roti,10000,https://img-global.cpcdn.com/recipes/f7290fb5d81d0cdf/680x482cq70/getas-ketan-hitam-foto-resep-utama.jpg
+972,Getuk Lindri,kue-roti,12000,https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2018/12/21/1509136869.jpg
+973,Kue Lapis Hunkwe,kue-roti,18000,https://resepkoki.id/wp-content/uploads/2021/06/Resep-Lapis-Pepe-Pandan.jpg
 974,Nagasari,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
 975,Putu Mayang,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
 976,Sosis Solo,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
 977,Kue Talam Ebi,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
 978,Wajik Ketan,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
 979,Wingko Babat,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
-980,Awug-Awug,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
-981,Kue Cucur Gula Merah,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
-982,Kue Lumpur Kentang,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
-983,Lemet Singkong,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
-984,Kue Ku,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
+980,Awug-Awug,kue-roti,13000,https://i.ytimg.com/vi/7_2hLrqLrL4/hqdefault.jpg
+981,Kue Cucur Gula Merah,kue-roti,15000,https://img-global.cpcdn.com/recipes/49072becfd2df381/1200x630cq70/photo.jpg
+982,Kue Lumpur Kentang,kue-roti,17000,https://doyanresep.com/wp-content/uploads/2020/03/resep-kue-lumpur-kentang-lembut.jpg
+983,Lemet Singkong,kue-roti,8000,https://1.bp.blogspot.com/-LfmLcWTW1YU/Xb7RQ82a_9I/AAAAAAAAAbQ/UsRndZOKsm4_I-9wwsxutFCNNoyYxm-1gCLcBGAsYHQ/s1600/lemet.jpg
+984,Kue Ku,kue-roti,20000,https://i0.wp.com/img-global.cpcdn.com/recipes/7e43dba022d0eeec/860x610cq70/photo.jpg
 985,Lepet Jagung,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
 986,Puding Zebra,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg
 987,Kue Kacang,kue-roti,12000,https://i.pinimg.com/736x/8c/c5/2e/8cc52e9663492996e4116ee596796b00.jpg

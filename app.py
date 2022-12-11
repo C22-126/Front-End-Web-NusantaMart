@@ -43,7 +43,7 @@ cosine_sim_df = pd.DataFrame(cosine_sim, index=data['name'], columns=data[['food
 cosine_sim_df.sample(5, axis=1).sample(10, axis=0)
 
 
-def food_recommendations(name, similarity_data=cosine_sim_df, items=data[['foodId', 'name', 'tipe']], k=20):
+def food_recommendations(name, similarity_data=cosine_sim_df, items=data[['foodId', 'name', 'tipe']], k=19):
     search = similarity_data.loc[name].to_numpy().argpartition(range(-1, -k, -1))
     closest = similarity_data.columns[search[-1:-(k + 2):-1]]
     closest = closest.drop(name, errors='ignore')
@@ -52,18 +52,43 @@ def food_recommendations(name, similarity_data=cosine_sim_df, items=data[['foodI
 
 @app.route('/')
 def index():
-    return render_template('index.html')
+    return render_template("home.html")
 
 
-@app.route('/predict', methods=['POST'])
-def predict():
-    req = request.form['request']
-    res = food_recommendations(req)
-    if len(res) > 0:
-        response = res
+@app.route('/signup', methods=["GET", "POST"])
+def home():
+    if request.method == "GET":
+        return render_template('signup.html')
     else:
-        response = 'data tidak ditemukan'
-    return render_template('home.html', data=response)
+        return render_template('signup.html', message='Akun Berhasil Daftar')
+
+
+@app.route('/predict', methods=['GET', 'POST'])
+def predict():
+   if request.method == 'POST':
+       if request.form['request'] == '':
+           return render_template('home.html', message='makanan tidak ditemukan')
+       else:
+           req = request.form['request']
+           res = food_recommendations(req)
+           if len(res) > 0:
+               response = res
+           else:
+               response = 'data tidak ditemukan'
+           return render_template('home.html', data=response)
+   else:
+       return render_template('home.html')
+
+
+@app.route("/keranjang")
+def keranjang():
+    return render_template('keranjang.html')
+
+
+@app.route("/profile")
+def profile():
+    return render_template('profile.html')
+
 
 
 if __name__ == "__main__":
