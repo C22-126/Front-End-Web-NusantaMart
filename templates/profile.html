@@ -22,6 +22,14 @@
   </div>
 </nav>
 
+  <div class="container p-5">
+      <h1 class="bg-light p-2"><strong>Profil Data</strong></h1>
+      <div class="container">
+          <h1 id="nama"></h1>
+          <h3 id="email"></h3>
+      </div>
+  </div>
+
 
   <script>
       window.addEventListener("DOMContentLoaded", function(e){
@@ -30,6 +38,12 @@
         if(email == null){
             location.href = '/signup';
         }
+
+        const text_name = document.getElementById('nama');
+        const text_email = document.getElementById('email');
+
+        text_name.innerText = `Nama : ${localStorage.getItem('nama')}`;
+        text_email.innerText = `Email : ${localStorage.getItem('email')}`;
     })
       function logout(){
           localStorage.clear();
