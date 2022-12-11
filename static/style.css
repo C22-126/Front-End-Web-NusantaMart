@@ -40,10 +40,13 @@
 }
 
 .item-keranjang{
+    cursor: pointer;
+    background-color: #FFC107;
     border-radius: 10px;
     transition: all .2s;
 }
 .item-keranjang:hover{
+    color: white;
     scale: 1.05;
     z-index: 99;
     border-radius: 10px;
